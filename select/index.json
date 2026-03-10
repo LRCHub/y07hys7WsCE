@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "全ての人への物語",
+  "base_artist": "yonishi",
+  "createdAt": "2026-03-10T13:55:59.033467Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "全ての人への物語",
+      "artist": "yonishi",
+      "has_synced": false,
+      "path": "select/pl_01_全ての人への物語_yonishi.txt"
+    }
+  ]
+}
